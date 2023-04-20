@@ -1,16 +1,7 @@
-# deepflavor
+# DeepFlavor - Berry Edition "DeepBerries"
 
-A new Flutter project.
+A flutter web application that utilizes Google Firebase Real time database and storage to facilitate Sensory panels with AI image analysis.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Compiled version is hosted on gh-pages branch. Project is accessible at savaglisic.github.io/deepberries
